@@ -1,4 +1,4 @@
-# Tinyraytracer_learning
+# Tinyraytracer_polishing
 
 
 
