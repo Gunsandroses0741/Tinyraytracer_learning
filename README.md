@@ -7,7 +7,6 @@
  
  This project is still a work in progress and more functionalities will be integrated into the project going forward. 
 
-运行效果: 
 
 ![out_corrected](https://github.com/user-attachments/assets/4367228f-e605-469f-b832-a34aa240e642)
 
